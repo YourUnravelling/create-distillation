@@ -94,6 +94,7 @@ Distilling chocolate gives sugar and rarely cocoa beans
 
 ## Natural blocks
 
-Spring stone
+### Spring stone
+Generates in springs
 Creates bubbles in water above it that damage the player ==?==
 Crushed into igneous stones
