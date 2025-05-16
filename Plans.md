@@ -84,8 +84,7 @@ Spouting pale sap into a pale oak log gives a creaking heart
 
 Distilling milk gives powdered milk, which can be mixed with water to get the liquid milk back, this acts as a better way to mass-store milk
 
-Distilling lava gives igneous stones which can be superheated back into the lava that created them
-==Maybe not this==
+Distilling lava gives igneous pebbles which can be superheated back into the lava that created them
 
 Distilling honey gives sugar
 
@@ -95,6 +94,5 @@ Distilling chocolate gives sugar and rarely cocoa beans
 ## Natural blocks
 
 ### Spring stone
-Generates in springs
-Creates bubbles in water above it that damage the player ==?==
-Crushed into igneous stones
+Spring stone generates in springs, when underwater it creates bubbles in water above it that damage the player.
+Can be crushed into igneous Pebbles
