@@ -76,8 +76,7 @@ When an orestone has finished generating it enters the inventory of the electrol
 Crushing any type of log except pale oak log gives sap.
 Distilling sap gives syrup
 
-Crushing pale oak logs gives pale sap
-Distilling pale sap gives resin
+Crushing pale oak logs gives pale sap, distilling pale sap gives resin.
 Spouting pale sap into a pale oak log gives a creaking heart
 
 ### Other recepies
